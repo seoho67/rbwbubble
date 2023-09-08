@@ -1,0 +1,22 @@
+{
+    "files": {
+      "app.js": "/seoho67/static/js/app.b9ce1591.chunk.js",
+      "app.js.map": "/seoho67/static/js/app.b9ce1591.chunk.js.map",
+      "runtime~app.js": "/seoho67/static/js/runtime~app.e2ac4276.js",
+      "runtime~app.js.map": "/seoho67/static/js/runtime~app.e2ac4276.js.map",
+      "static/js/2.ca41e991.chunk.js": "/seoho67/static/js/2.ca41e991.chunk.js",
+      "static/js/2.ca41e991.chunk.js.map": "/seoho67/static/js/2.ca41e991.chunk.js.map",
+      "favicon-16.png": "/seoho67/favicon-16.png",
+      "favicon-32.png": "/seoho67/favicon-32.png",
+      "favicon.ico": "/seoho67/favicon.ico",
+      "index.html": "/seoho67/index.html",
+      "manifest.json": "/seoho67/manifest.json",
+      "serve.json": "/seoho67/serve.json",
+      "static/js/2.ca41e991.chunk.js.LICENSE.txt": "/seoho67/static/js/2.ca41e991.chunk.js.LICENSE.txt"
+    },
+    "entrypoints": [
+      "static/js/runtime~app.e2ac4276.js",
+      "static/js/2.ca41e991.chunk.js",
+      "static/js/app.b9ce1591.chunk.js"
+    ]
+  }

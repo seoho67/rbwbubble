@@ -1,7 +1,7 @@
 const getArtistCode = (name) => {
     switch (name) {
         // ONEUS
-        case '서 호':
+        case '서  호':
             console.log('Artist: 이서호'); 
             return ('LSH'); 
             

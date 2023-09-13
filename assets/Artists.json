@@ -9,6 +9,16 @@
         "status": "",
         "hasMediaMeta": true
         },
+    "KKH": {
+        "code": "KKH",
+        "name": "이도",
+        "profile": "https://raw.githubusercontent.com/seoho67/BBMedia/main/profile/KKH_profile.jpg",
+        "profileDownload": "https://drive.google.com/file/d/13GQzZcgja0NO9YM1a6WR4kN_xW5w91OW/view?usp=drive_link",
+        "background": "https://raw.githubusercontent.com/seoho67/BBMedia/main/profile/KKH_profile_background.jpg",
+        "backgroundDownload": "https://drive.google.com/file/d/1wJ68wvUpRoWQ16niV9mdcwI0VfFK98d-/view?usp=drive_link",
+        "status": "",
+        "hasMediaMeta": true
+        },       
     "LKH": {
         "code": "LKH",
         "name": "건희",
@@ -18,6 +28,26 @@
         "backgroundDownload": "https://drive.google.com/file/d/1JQjOuCfndkFLLR4gDXTrGQ1cwQzC6UOh/view?usp=drive_link",
         "status": "☁",
         "hasMediaMeta": true
-        }    
+        },
+    "YHW": {
+        "code": "YHW",
+        "name": "화눙",
+        "profile": "https://raw.githubusercontent.com/seoho67/BBMedia/main/profile/YHW_profile.jpg",
+        "profileDownload": "https://drive.google.com/file/d/1fCzD2AszACzQYZgkGw8cu4QtBfs0QAbG/view?usp=drive_link",
+        "background": "https://raw.githubusercontent.com/seoho67/BBMedia/main/profile/YHW_profile_background.jpg",
+        "backgroundDownload": "https://drive.google.com/file/d/18MHRnLF99w6_uCS90DC2DCnrhW-IwQGD/view?usp=drive_link",
+        "status": "",
+        "hasMediaMeta": true
+        },   
+    "SDJ": {
+        "code": "SDJ",
+        "name": "시온이💜",
+        "profile": "https://raw.githubusercontent.com/seoho67/BBMedia/main/profile/SDJ_profile.jpg",
+        "profileDownload": "https://drive.google.com/file/d/1w2vQzgEP7LccwFUnFE0SbSKD_iSyTeyx/view?usp=drive_link",
+        "background": "https://raw.githubusercontent.com/seoho67/BBMedia/main/profile/SDJ_profile_background.jpg",
+        "backgroundDownload": "https://drive.google.com/file/d/1jl2aro66lw6kHHDAHnPV2E32skoBrUTa/view?usp=drive_link",
+        "status": "💧ONEUS COMEBACK💦",
+        "hasMediaMeta": true
+        }     
 
 }

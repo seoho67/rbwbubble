@@ -5,7 +5,7 @@ const UserChat = ({item}) => {
     return (
         <View style={{flexDirection: 'row-reverse', marginVertical: 5}}>
             <View style={{ marginLeft:7 }}>
-                <Text style={[{color: 'white', backgroundColor:'#6595db',borderBottomRightRadius: 0}, styles.text]}>
+                <Text style={[{color: 'white', backgroundColor:'#5597e1',borderBottomRightRadius: 0}, styles.text]}>
                     {item.content}
                 </Text>
             </View>

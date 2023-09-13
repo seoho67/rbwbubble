@@ -8,16 +8,6 @@
         "backgroundDownload": "https://drive.google.com/file/d/1JK6F46k2mmutTiOsP2SqBWYrqSmsf9v7/view?usp=drive_link",
         "status": "",
         "hasMediaMeta": true
-        },
-    "LKH": {
-        "code": "LKH",
-        "name": "건희",
-        "profile": "https://raw.githubusercontent.com/dlrauddmlejrgn/BBMedia/main/profile/LKH_Profile.jpg",
-        "profileDownload": "https://drive.google.com/file/d/1F-h6uNh06_7kP1aL33UhzfnGePiwT_5h/view?usp=drive_link",
-        "background": "https://raw.githubusercontent.com/dlrauddmlejrgn/BBMedia/main/profile/LKH_Profile_Background.jpg",
-        "backgroundDownload": "https://drive.google.com/file/d/1JQjOuCfndkFLLR4gDXTrGQ1cwQzC6UOh/view?usp=drive_link",
-        "status": "☁",
-        "hasMediaMeta": true
-    }
+        }
 
 }

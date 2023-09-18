@@ -33,7 +33,7 @@ const msgToObj = (msgStr) => {
     content = "vid" + "_" + getTimestamp(temp2[0]);
   } else if (content.includes("/ ")) {
     isMedia = true;
-    content = content.trim()(temp2[0]);
+    content = content.trim();
   }
 
   return {

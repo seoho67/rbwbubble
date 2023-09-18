@@ -16,9 +16,8 @@ const Message = ({ content, media, userName }) => {
           let ratio = Width / Height;
           //console.log(ratio);
           ratio >= 0.75 && Width <= 300
-            ? setPicStyle({ width: 150, aspectRatio: ratio })
-            : setPicStyle({ height: 150, aspectRatio: ratio });
-          ratio >= 0.75 && Width > 300
+            ? setPicStyle({ width: 128, aspectRatio: ratio })
+            : ratio >= 0.75 && Width > 300
             ? setPicStyle({ width: 264, aspectRatio: ratio })
             : setPicStyle({ height: 352, aspectRatio: ratio });
         },

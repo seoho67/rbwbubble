@@ -1235,9 +1235,8 @@
                     var n = e / t;
                     m(
                       n >= 0.75 && e <= 300
-                        ? { width: 150, aspectRatio: n }
-                        : { height: 150, aspectRatio: n },
-                      n >= 0.75 && e > 300
+                        ? { width: 130, aspectRatio: n }
+                        : n >= 0.75 && e > 300
                         ? { width: 264, aspectRatio: n }
                         : { height: 352, aspectRatio: n }
                     );

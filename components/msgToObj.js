@@ -31,9 +31,11 @@ const msgToObj = (msgStr) => {
   } else if (content.includes("(동영상)")) {
     isMedia = true;
     content = "vid" + "_" + getTimestamp(temp2[0]);
-  } else if (content.includes("/ ")) {
+  } else if (content.includes("/")) {
     isMedia = true;
     content = content.trim();
+    console.log(content.length);
+    console.log(content.substring(0, 1));
   }
 
   return {

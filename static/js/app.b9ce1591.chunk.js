@@ -530,12 +530,12 @@
                 }),
                 Object(g.jsx)(i.default, {
                   style: f.default.credit,
-                  children: "데이터 제공 : 칼국, 눈썹달, 마호, 포푸",
+                  children: "데이터 제공 : 칼국, 눈썹달, 마호, 포푸, 아님",
                 }),
                 Object(g.jsx)(i.default, {
                   style: f.default.credit,
                   children:
-                    "도움 : ADO_BEE, 두부, 호떡, 미니, 미르, 레미, 또지",
+                    "도움 : ADO_BEE, 두부, 호떡, 미니, 미르, 레미, 또지, 달달",
                 }),
               ],
             }),
